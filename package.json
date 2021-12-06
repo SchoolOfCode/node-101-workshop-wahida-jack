@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-wahida-jack/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-wahida-jack#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-wahida-jack#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
