@@ -16,7 +16,7 @@
 //     }
 //   ];
 
-import myCollection from "./collection.";
+import myCollection from "./collection.js";
 
 //   console.log(myCollection);
 
